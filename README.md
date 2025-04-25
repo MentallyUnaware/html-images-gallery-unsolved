@@ -37,18 +37,18 @@ This assignment should prove that a student is able to:
 
 ## Standard requirements
 
-- [ ] Fork the project to your github account
-- [ ] Clone the project to your computer
-- [ ] Open the project in VSCode with `code <cloned_repo_folder_name>`
-- [ ] Initialize playwright and install project packages
-  - [ ] Use `npm i` to install packages
-  - [ ] Use `npm run browser-install` to install the browser environment for testing (~131mb will be downloaded)
-  - [ ] (Windows users only) Use `npm run deps-install` to install playwright additional dependencies (~160mb will be downloaded)
+- [ x] Fork the project to your github account
+- [x ] Clone the project to your computer
+- [ x] Open the project in VSCode with `code <cloned_repo_folder_name>`
+- [ x] Initialize playwright and install project packages
+  - [x ] Use `npm i` to install packages
+  - [x ] Use `npm run browser-install` to install the browser environment for testing (~131mb will be downloaded)
+  - [ x] (Windows users only) Use `npm run deps-install` to install playwright additional dependencies (~160mb will be downloaded)
 - [ ] All the tasks of the "Specific requirements" section MUST be solved
 - [ ] **The project's file/folder structure should NOT be edited!**
 - [ ] All the tests MUST pass. Fix the errors in case they don't BEFORE you submit (acceptance criteria)
   - [ ] Use `npm run test` to run all tests in the terminal
-  - [ ] Use `npm run test-main` to run index.html file tests
+  - [ x] Use `npm run test-main` to run index.html file tests
   - [ ] Use `npm run test-modern-design` to run modern-design.html file tests
   - [ ] Use `npm run test-nature` to run nature.html file tests
   - [ ] Use `npm run test-plants` to run plants.html file tests
@@ -62,6 +62,7 @@ This assignment should prove that a student is able to:
 
 ## Specific requirements
 
+main
 **For the index.html file:**
 
 - [ ] Connect the scripts.js file
